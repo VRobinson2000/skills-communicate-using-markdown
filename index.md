@@ -20,3 +20,8 @@ let mode = "Sage Mode";
 console.log("Naruto has entered " + mode + "!");
 ```
 </pre>
+
+
+- [ ] Create a header
+- [ ] Add image of Naruto
+- [ ] Complete step 4
