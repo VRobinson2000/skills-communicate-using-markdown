@@ -11,4 +11,4 @@
 
 Added my first H1 and H2 header. 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Naruto](https://static.wikia.nocookie.net/naruto/images/d/dc/Naruto%27s_Sage_Mode.png/revision/latest?cb=20150124180545)
